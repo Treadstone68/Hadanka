@@ -1,1 +1,3 @@
 # Hadanka
+
+![kod](qrkod.png)
